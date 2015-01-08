@@ -5,6 +5,7 @@ using  std::cout;
 
 
 int main(){
-	cout << "Hello World" << std::endl;
+	cout << "This is a test" << std::endl;
+
 
 }
